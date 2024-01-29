@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Jackson Bunting",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Jackson Bunting",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
