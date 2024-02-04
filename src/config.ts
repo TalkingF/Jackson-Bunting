@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://jackson-bunting.vercel.app/", // replace this with your deployed domain
   author: "Jackson Bunting",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Jackson Bunting's personal website",
   title: "Jackson Bunting",
   ogImage: "",
   lightAndDarkMode: true,
